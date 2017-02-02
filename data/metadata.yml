@@ -47,6 +47,9 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - kparts
+    - kinit
+    - kdesu
 type: git
 url: http://anongit.kde.org/cervisia
 buildsystem: cmake
