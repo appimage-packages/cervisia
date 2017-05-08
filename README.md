@@ -5,8 +5,7 @@ Master branch:
 AppImage for KDE cervisia
 
 Cervisia is a user friendly version control system front-end. The aim is to support CVS and other version control system programs in a unified interface, featuring conflict resolution, difference and history viewers, status for the working copy files, and support for most version control functions.
-
-https://www.kde.org/applications/development/cervisia/
+https://edu.kde.org/cervisia/
 
 S3 Download:
 master:
